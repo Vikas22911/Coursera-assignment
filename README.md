@@ -1,6 +1,6 @@
 Woo-hoo! You get to do some coding! Exciting!
 
-link to see result  
+link to see result  file:///C:/Users/HP/OneDrive/Pictures/Documents/index.html
 
 Time to complete: 1-2 hours. It may take you less time than that if you've absorbed the material in this module well.
 
